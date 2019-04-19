@@ -1,0 +1,4 @@
+GIT Windows Installation
+Learn how to install GIT on yoru Windows machine
+To use GIT on your Windows computer you must first download and install it. You can download the latest version of GIT from this page.
+Download the installer and run it. This will open a new window in which you can find license information about the software. 
